@@ -1,0 +1,14 @@
+*.pyc
+*.mp4
+*.jpg
+
+*.pt
+*.onnx
+*.tflite
+*.bin
+*.param
+*.pth
+
+*.zip
+*.avi
+*.exe
